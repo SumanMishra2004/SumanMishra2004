@@ -30,12 +30,10 @@ const suman = {
   funFact: "I debug code faster than I debug life! 🐛"
 };
 ```
+# 💫 About Me:
+🔭 I’m currently working on<br><br>GeoAI for Urban Futures – Urban growth & sprawl prediction using Google Earth Engine, Deep Learning & GANs<br><br>A real-estate analytics platform (housing.com–like) with urban sprawl index, AQI, LST & future growth prediction<br><br>Full-stack web projects using Next.js, Prisma, Supabase & FastAPI<br><br>👯 I’m looking to collaborate on<br><br>GeoAI / Remote Sensing / Satellite data projects<br><br>AI + Web platforms solving real-world urban, environmental, or infrastructure problems<br><br>Hackathons & open-source projects involving ML, Web3, or data visualization<br><br>🤝 I’m looking for help with<br><br>Advanced GAN architectures for spatio-temporal prediction<br><br>Scaling ML models for real-time or production deployment<br><br>Research paper writing & publication in GeoAI / Urban Analytics<br><br>🌱 I’m currently learning<br><br>Advanced Deep Learning (GANs, Transformers)<br><br>Web3 & Blockchain integration for trust-based platforms<br><br>Cloud & MLOps (Docker, AWS, deployment pipelines)<br><br>💬 Ask me about<br><br>Next.js full-stack development<br><br>Google Earth Engine & satellite data analysis<br><br>Urban growth modeling, GeoAI & ML<br><br>Hackathons, freelancing & solo product development<br><br>⚡ Fun fact<br><br>I built JEDSD.com completely solo as a freelancer 🚀<br><br>National-level hackathon finalist who loves turning research ideas into real products
 
-- 🔭 **Currently Working On:** Web applications with TypeScript and React
-- 🌱 **Currently Learning:** Advanced system design and cloud technologies
-- 💡 **Interested In:** Full Stack Development, Open Source, Hackathons
-- 💬 **Ask Me About:** JavaScript, TypeScript, React, Next.js, Node.js
-- 📫 **Reach Me:** Open for collaboration and exciting projects!
+
 
 ---
 
